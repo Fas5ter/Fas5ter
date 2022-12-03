@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fas5ter
+- 👋 Hi, I’m @Fas5ter... Follow me!
 - 👀 I’m interested in data science, big data, machine learning and IA
 - 🌱 I’m currently studying in Intelligent Computing Engineering in Universidad de Colima
 - 💞️ I’m looking to collaborate in software companies

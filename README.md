@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fas5ter... Follow me!
 - 👀 I’m interested in data science, big data, machine learning and IA
-- 🌱 I’m currently studying in Intelligent Computing Engineering in Universidad de Colima
+- 🌱 I’m currently 
 - 💞️ I’m looking to collaborate in software companies
 - 📫 How to reach me --> Twitter: fassterk / Instagram: cristian6od / Facebook: Cristian Larios / LinkedIn: Cristian Armando Larios Bravo

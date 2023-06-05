@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fas5ter... Follow me!
 - 👀 I’m interested in data science, big data, machine learning and IA
-- 🌱 I’m currently 
+- 🌱 I’m currently studying Intelligent Computing Engineering
 - 💞️ I’m looking to collaborate in software companies
 - 📫 How to reach me --> Twitter: fassterk / Instagram: cristian6od / Facebook: Cristian Larios / LinkedIn: Cristian Armando Larios Bravo
